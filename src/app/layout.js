@@ -5,8 +5,8 @@ import "../../styles/vendor/font-awesome/css/font-awesome.min.css";
 import "../../styles/vendor/nucleo/css/nucleo.css";
 
 export const metadata = {
-  title: "Odhiambo George",
-  description: "Odhiambo George Samuel Portfolio",
+  title: "Idalia Felix",
+  description: "Idalia Felix Portfolio",
 };
 
 export default function RootLayout({ children }) {
