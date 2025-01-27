@@ -145,7 +145,7 @@ export const skillsSection = {
 export const SkillBars = [
   {
     Stack: "Javascript (NodeJs)",
-    progressPercentage: "85",
+    progressPercentage: "70",
   },
   {
     Stack: "API Integration",
@@ -153,7 +153,7 @@ export const SkillBars = [
   },
   {
     Stack: "Java (SpringBoot)",
-    progressPercentage: "70",
+    progressPercentage: "65",
   },
   {
     Stack: "ReactJs and NextJs",
@@ -272,7 +272,7 @@ export const seoData = {
   title: "Idalia Felix",
   description:
     "A passionate Full Stack Web Developer and Blockchain Developer.",
-  author: "Odhiambo George",
+  author: "Idalia Felix",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
